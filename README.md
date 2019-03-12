@@ -1,2 +1,2 @@
-# supervised-learning-algorithms-with-samples
-Supervised Learning Algorithms with some samples
+# Supervised Learning Algorithms
+We navigate through the different algorithms in the supervised learning universe
